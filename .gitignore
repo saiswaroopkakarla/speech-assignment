@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Large data
+data/
+
+# System files
+.DS_Store
+
